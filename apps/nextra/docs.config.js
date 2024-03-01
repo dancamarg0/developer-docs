@@ -23,9 +23,9 @@ export const docsConfig = Object.freeze({
   i18nConfig,
   defaultTitle: 'Aptos Docs',
   defaultDescription: 'Docs for Aptos',
-  githubUrl: 'https://github.com/aptos-labs/nextra',
-  githubDocsUrl: 'https://github.com/aptos-labs/nextra/apps/aptos-swr-site',
-  githubNewIssueUrl: 'https://github.com/aptos-labs/nextra/issues/new',
+  githubUrl: 'https://github.com/aptos-labs/developer-docs',
+  githubDocsUrl: 'https://github.com/aptos-labs/developer-docs/apps/nextra',
+  githubNewIssueUrl: 'https://github.com/aptos-labs/developer-docs/issues/new',
   googleAnalyticsId: 'G-LLF79THJN0',
   origin: process.env.NEXT_PUBLIC_ORIGIN
 })
